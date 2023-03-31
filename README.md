@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=D8E100&background=000000&center=true&vCenter=true&lines=Heyo%2C+I'm+Alperen+Dirik+aka+%22Alpeen%22)](https://git.io/typing-svg)
 <h3 align="center">A passionate Software and Game Developer. I can call myself a project manager and graphic designer. Because Google confirms it🙃</h3>
 
-- 🌱 I’m working as a Software Dev in İzmir
+- 🌱 I’m working as a Software Dev in İzmir. I wanna be a Game Designer / Project Manager in Game Industry.
 
 - 📫 How to reach me **alpeen@outlook.com.tr**
 
