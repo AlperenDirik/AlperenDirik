@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://app.daily.dev/alpeen"><img src="https://api.daily.dev/devcards/146a961e911b43be8e081959d65ac2df.png?r=eof" width="400" alt="Alperen Dirik's Dev Card"/></a>
 <a href="https://twitter.com/alpeen_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpeen_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alpeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpeen" height="30" width="40" /></a>
 <a href="https://instagram.com/alpeen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alpeen1" height="30" width="40" /></a>
