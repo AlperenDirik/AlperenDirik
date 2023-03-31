@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=D8E100&background=000000&center=true&vCenter=true&lines=Heyo%2C+I'm+Alperen+Dirik+aka+%22Alpeen%22)](https://git.io/typing-svg)
 <h3 align="center">A passionate Software and Game Developer. I can call myself a project manager and graphic designer. Because Google confirms it🙃</h3>
 
-- 🌱 I’m currently learning **Unity, Maya, Blender**
+- 🌱 I’m working as a Software Dev in İzmir
 
 - 📫 How to reach me **alpeen@outlook.com.tr**
 
-- ⚡ Fun fact **I am a trap artist😎**
+- ⚡ Fun fact **I am a trap/drill artist😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
